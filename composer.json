@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.1|^8.0",
         "spatie/image": "^1.5.3",
         "spatie/temporary-directory": "^1.1",
         "symfony/process": "^4.2|^5.0"
